@@ -1,5 +1,6 @@
 # Botrecon
 
+Created by: William Horn
 ---
 
 Botrecon is tool for performing reconnaissance and inspection on web applications that use question and answer bot methods to find potential security vulnerabilities for ethical hacking purposes.
