@@ -1,0 +1,13 @@
+{
+  "name": "botrecon",
+  "version": "0.1.0",
+  "description": "Terminal UI for inspecting bot-like web applications",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "dotenv": "^16.4.5"
+  }
+}
